@@ -75,6 +75,7 @@ Precision Issues: Gradient descent might not achieve the same precision as close
 
 ## Contributors:
 Riddhi Das (A20582829): rdas8@hawk.iit.edu
+
 Madhur Gusain (A20572395): mgusain@hawk.iit.edu
 
 
